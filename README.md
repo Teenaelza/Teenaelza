@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Teena
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me ...
+Full Stack Web Developer.Lighthouse Labs Bootcamp Student.
 
 <!---
 Teenaelza/Teenaelza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
